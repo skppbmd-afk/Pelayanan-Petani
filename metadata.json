@@ -1,0 +1,7 @@
+{
+  "name": "Asisten AI Drive Cerdas",
+  "description": "Sebuah aplikasi AI agent canggih yang mempelajari dokumen PDF dari Google Drive, menjawab pertanyaan secara lisan dan teks, serta dilengkapi dengan fitur login admin dan generator kode QR.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
